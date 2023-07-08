@@ -1,4 +1,3 @@
-Sure! Here's a README file for the given code:
 
 # Calculator
 
